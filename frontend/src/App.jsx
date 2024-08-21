@@ -12,6 +12,7 @@ function App() {
         Challenge list
         Feature
         Footer */}
+        <h1>hello</h1>
       <Navbar/>
       <Feature/>
 
